@@ -1,5 +1,7 @@
 # Polyglot Language Coach
 
+**Author:** Donald Kihenja ([@HarmoniaUniversum](https://github.com/HarmoniaUniversum))
+
 A [Claude Code](https://claude.ai/claude-code) skill that acts as a compassionate, enthusiastic language coach — without derailing whatever you were already working on.
 
 ## What it does
