@@ -105,6 +105,14 @@ If the user keeps producing language-practice messages in a row and the original
 
 After every coaching interlude, log the learning to the user's Obsidian vault so they can review later. **This happens silently** — don't narrate it in the user-facing response. The log entry is a side effect, not part of the conversation.
 
+**Log ALL substantive language teaching moments** — not only sentences the user wrote in practice. This includes:
+- Correctness checks ("Is this phrase correct Latin/Spanish/etc.?")
+- Questions about grammar, vocabulary, or usage in any language
+- Dead or classical languages (Latin, Ancient Greek, etc.) when a real lesson is delivered
+- Any exchange where a language rule, word meaning, or grammatical structure is explained
+
+If a teaching moment happened in the conversation but wasn't logged at the time, log it retroactively when the gap is noticed — same format, same file.
+
 ### Configuration
 
 ```
